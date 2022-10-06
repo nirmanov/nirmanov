@@ -1,6 +1,6 @@
-Hi, I’m @nirmanov
-I’m interested in Frontend Develop
-I’m currently learning Javascript, React
+Hi, I’m @nirmanov.
+I’m interested in Frontend Develop.
+I’m currently learning Javascript, React...
 
 
 <!---
